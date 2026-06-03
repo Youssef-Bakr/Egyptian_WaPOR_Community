@@ -2,3 +2,26 @@
 
 ### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_AETI_D
 
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_AETI_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_RET_E
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_RET_E
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_E_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_E_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_I_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_I_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_NPP_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_RET_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_RET_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_2_L1_T_D
+
+### https://developers.google.com/earth-engine/datasets/catalog/FAO_WAPOR_3_L1_T_D
